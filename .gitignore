@@ -1,0 +1,11 @@
+/data
+/output
+/meta_data
+/json_raw
+/util
+.idea
+.vscode
+extract_nlp_files.py
+find_fail_files.py
+load_json.py
+__pycache__
